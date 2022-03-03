@@ -73,6 +73,9 @@ When analyzing the datasets, there were substantial findings about SAT and ACT t
 - SAT Test Scores vs Participation Rates, 2017-18: In both years, there was a strong negative correlation between test scores and participation rates.<sup>1</sup>. The higher the participation rate, the lower the test score.
 - ACT Test scores exhibits a higher positive correlation with income, showing disparity across income groups. This is further supported by ACT research team that there is such a trend.<sup>2</sup>
 - SAT Test Scores exhibits simpson's paradox when combined with participation rates, SAT scores and income group. Initially when plotted income vs SAT scores, there were a small negative correlation. As we proceed to split the data by participation level, the trend of each sub groups tend to be more positvely correlated. Hence, this shows there migth be some underlying marginal association between the two categorical variables. Hence, more careful understanding is needed to decouple before assuming the validity of the relationship between income and the scores. 
+
+![image](https://user-images.githubusercontent.com/98629542/156631632-793ba5ef-3684-4b2b-980b-bfcf4c53a402.png)
+
 - ACT Worst performing countries consistently and low income group: Nevada, South Carolina and Mississipi. SAT Worst perofrming countries and a lower income group: Idaho. 
 
  

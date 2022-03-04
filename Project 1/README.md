@@ -1,4 +1,4 @@
-# SAT & ACT Data: Analyzing test scores and participation rates from 2017-18
+# SAT & ACT Data: Analyzing test scores and participation rates from 2017-18 and also income levels by States
 
  - [Problem Statement](#Problem-Statement)
  - [Executive Summary](#Executive-Summary)

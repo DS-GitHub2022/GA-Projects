@@ -23,6 +23,7 @@ In contrast, consumers bid up or push down prices based on their changing interp
 This process is imperfect and ever-changing.<sup>1</sup> 
 
 Hence it is crucial to come up with a one stop price prediction model to supply up-to-date insights on critical features for future sellers to add the most value to home 
+
 --
 
 **Citations**
@@ -58,3 +59,8 @@ Hence it is crucial to come up with a one stop price prediction model to supply 
 
 3. Optimised conversion of ordinal features into model and reduce number of features needed for Lasso regression. 
  
+ ![image](https://user-images.githubusercontent.com/98629542/158870698-b643070a-0a59-458c-8a2c-bd1f288d5cf1.png)
+ 
+ ![image](https://user-images.githubusercontent.com/98629542/158870812-2f0001df-adc9-477d-b97c-3cae7dab946e.png)
+
+

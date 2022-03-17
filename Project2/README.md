@@ -1,7 +1,9 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
 
 Journal 1: EDA_Cleaning
+
 Journal 2: Feature engineering
+
 Journal 3: Model Tuning
 
 --

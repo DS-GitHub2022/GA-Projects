@@ -62,13 +62,16 @@ Hence it is crucial to come up with a one stop price prediction model to supply 
 
 
 2. Found that some variables do have higher correlation to price when interact with one another during the EDA. 
--  Created interaction terms between few variables. MSE improved by 18%.
--  Simulates in the real world where features are not entirely independent, as such, invoke collinearity between them. 
--  Hence, these features interact with one another to give a bigger impact to how much the house actually is worth. 
-
 ![image](https://user-images.githubusercontent.com/98629542/158872096-eb340afd-4615-4fd3-865f-ee156bc2c43f.png)
 
+-  Created interaction terms between few variables. MSE improved by 18%.
+-  Simulates in the real world where features are not entirely independent, as such, having collinearity. 
+-  Hence, these features interaction must be accounted for in the model to provide a bigger effect to how much the house actually is worth. 
 
-3. Optimised conversion of ordinal features into model and reduce number of features needed for Lasso regression. 
- 
 ![image](https://user-images.githubusercontent.com/98629542/158870698-b643070a-0a59-458c-8a2c-bd1f288d5cf1.png)
+
+3. By using Lasso regression with most of the features fit in, after optimising model using feature select model, able to reduce MSE by 7%. 
+
+4. Optimised conversion of ordinal features into model and reduce number of features needed for Lasso regression reducing another 5% MSE. 
+ 
+

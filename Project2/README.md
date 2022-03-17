@@ -48,7 +48,7 @@ Hence it is crucial to come up with a one stop price prediction model to supply 
 6. I believe the model can have more work done to improve such as 
 -  Imputing rare variables 
 -  Re-evaluating the use of ordinal features via EDA, either to insert ordinal numerical ranking or convert it to nominal categories
--  e-evaluate more variables that can interact better with the current interaction term via comparing correlation with sale price
+-  Re-evaluate more variables that can interact better with the current interaction term via comparing correlation with sale price
 
 --
 

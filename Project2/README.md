@@ -62,6 +62,8 @@ Hence it is crucial to come up with a one stop price prediction model to supply 
 
 
 2. Found that some variables do have higher correlation to price when interact with one another during the EDA. 
+   The correlation of the pairwise relationship is greater than the individual independent features. 
+   
 ![image](https://user-images.githubusercontent.com/98629542/158872096-eb340afd-4615-4fd3-865f-ee156bc2c43f.png)
 
 -  Created interaction terms between few variables. MSE improved by 18%.

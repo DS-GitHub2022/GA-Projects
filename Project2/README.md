@@ -81,5 +81,6 @@ Hence it is crucial to come up with a one stop price prediction model to supply 
 ## Kaggle Submission score
 
 Private Score: 19400
+
 Public Score: 19830
 

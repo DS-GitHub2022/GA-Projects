@@ -76,4 +76,10 @@ Hence it is crucial to come up with a one stop price prediction model to supply 
 
 4. Optimised conversion of ordinal features into model and reduce number of features needed for Lasso regression reducing another 5% MSE. 
  
+--
+
+## Kaggle Submission score
+
+Private Score: 19400
+Public Score: 19830
 

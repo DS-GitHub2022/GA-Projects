@@ -42,7 +42,7 @@ Hence it is crucial to come up with a one stop price prediction model to supply 
 
 1. Generated two models, mainly linear regression and Lasso regression. Started off with simple linear regression without the need to penalise high coefficient variables
 2. Lasso was used to incorporate most features together. 
-3. Predicted price with scoring of RMSE = 19400
+3. Predicted price with Kaggle scoring of RMSE = 19400
 4. Evaluation on the models were based on mean squared error between the predicted scores vs the actual scores in the holdup test set. 
 5. Models were optimised, and outliers analysed and removed to have better scoring than previous MSE. 
 6. I believe the model can have more work done to improve such as 

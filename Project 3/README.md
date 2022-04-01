@@ -106,7 +106,7 @@ Linking back to the EDA, found that we see spike on July 2021, there is seasonal
 --
 
 
-Found 93 users common in both subreddit groups. Removed them after EDA found that some were misclassified wrongly because they were likely to be in wrong post based on the words and context they have used. Also because of the ambiguity, its best to remove since there is no clear indication which group they belong to.
+Found 93 users common in both subreddit groups. Removed them after EDA found that some were misclassified wrongly because discovered that some were likely to be in wrong post based on the words and context they have used. Also because of the ambiguity, its best to remove since there is no clear indication which group they belong to.
 
 ![image](https://user-images.githubusercontent.com/98629542/161172631-6c1426a6-e408-4eec-8cc8-6716141bc802.png)
 

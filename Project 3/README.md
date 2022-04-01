@@ -1,4 +1,4 @@
-# Project 3 - Classification of Subreddits
+# Project 3 - Using Natural Language Processing (NLP) Modelling to come with a model to Predict people having PTSD over Anxiety
 
 Journal 1: ImportingData_Reddit
 
@@ -23,7 +23,7 @@ Journal 4: Classification Modelling
 --
 
 ## Problem Statement
-To provide model and incorporate into business process of social centers to accurately identify people with PTSD so that quick remedy can be provided.   
+To provide model and incorporate into business process of social centers to accurately identify people with PTSD so that quick remedy can be provided. The EDA can be used as a form of matrix to evaluate current campaigns to help toe community more effectively.   
 
 --
 

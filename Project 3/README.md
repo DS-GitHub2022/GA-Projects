@@ -124,7 +124,7 @@ Logistic regression has the highest ROC_AUC and Accuracy score.
 <sup>4</sup>https://wgntv.com/news/fireworks-retailer-warns-of-july-4-shortage-here-are-the-states-where-its-legal-to-stock-up/
 
 
-Conclusion and recommendation
+## Conclusion and recommendation
 
 A final model - `Logistic Regression with tfidVectorizer` was picked for its incredible performance in ROC_AUC and overall Accuracy score. It's sensitivity score is relatively high too compared to MultinomialNB. Its accuracy is currently at 0.848 compared to its baseline score of 0.801, an overall increase of 5.8%.  The ROC_AUC however, increase larger by 9% from 0.88 to 0.95. Also, the value of accuracy can be seen when we trained the model on k-folds of crocss validation (estimated test set accuracy) was similar to the model test holdout data, by +- 5%. This implies that this classification model would `decently generalize well on new unseen data`
 
